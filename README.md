@@ -1,5 +1,4 @@
 # Hidden-Loader
-
 How to use : 
 1-Upload WebFiles
 2-Put your URL on loader
@@ -8,7 +7,7 @@ How to use :
 # Hidden Loader For CsGo ( C# )
 Functional:
 1- Read HWID and Username from host (Not mysql)
-2-only this loader can connect to web files, if anyone connect to web files, will transfer to google.com
+2- only this loader can connect to web files, if anyone connect to web files, will transfer to google.com
 3- Crypt all strings
 4- Byte injector
 5- Dll in loader ( Not in host )
